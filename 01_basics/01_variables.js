@@ -8,3 +8,5 @@ let nam1= "Friction"
     var age = 25
 }
 console.table([age,nam,name2])
+
+// var is not recommended to use
